@@ -10,8 +10,7 @@ It is required to have an pyhton interpreter installed in your machine.
 
 The usage is as follows:
 ```python
-#python wcasa.py your_working_copy_base_folder [from_revision]
-print s
+python wcasa.py your_working_copy_base_folder [from_revision]
 ```
 
 The result provides complete statistics over explored working copy folder, including the number of analysed files, the total number of lines of files, the number of lines containing source code, the number of empty lines, and the number of comments.
